@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PizzaApp",
+    "\\PizzaApp.DataAccess\\DbContext",
+    "\\PizzaApp.DataAccess\\Repositories\\Abstractions",
+    "\\PizzaApp.DataAccess\\Repositories\\Implementations"
+  ],
+  "SelectedNode": "\\PizzaApp\\PizzaApp.sln",
+  "PreviewInSolutionExplorer": false
+}
